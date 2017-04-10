@@ -7,8 +7,12 @@ import exercicios.Exercicio12;
 import exercicios.Exercicio13;
 import exercicios.Exercicio14;
 import exercicios.Exercicio15;
+import exercicios.Exercicio16;
+import exercicios.Exercicio17;
+import exercicios.Exercicio18;
 import exercicios.Exercicio19;
 import exercicios.Exercicio2;
+import exercicios.Exercicio20;
 import exercicios.Exercicio3;
 import exercicios.Exercicio4;
 import exercicios.Exercicio5;
@@ -38,7 +42,11 @@ public class App {
 		Exercicio13 e13 = new Exercicio13();
 		Exercicio14 e14 = new Exercicio14();
 		Exercicio15 e15 = new Exercicio15();
+		Exercicio16 e16 = new Exercicio16();
+		Exercicio17 e17 = new Exercicio17();
+		Exercicio18 e18 = new Exercicio18();
 		Exercicio19 e19 = new Exercicio19();
+		Exercicio20 e20 = new Exercicio20(); 
 		//e1.exerc1();
 		//e2.exer2();
 		//e3.exerc3();
@@ -52,9 +60,14 @@ public class App {
 		//e11.exerc11();
 		//e12.exerc12();
 		//e13.exerc13();
-		e14.exerc14();
+		//e14.exerc14();
 		//e15.exerc15();
+		//e15.exerc15Map();
+		//e16.exerc16();
+		//e17.exerc17();
+		//e18.exerc18();
 		//e19.exerc19();
+		//e20.exerc20();
 	}
 
 }

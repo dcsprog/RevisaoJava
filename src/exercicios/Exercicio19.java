@@ -10,17 +10,26 @@ public class Exercicio19 {
 		int num = 0; 
 		System.out.println("Introduza um numero: ");
 		num = n.nextInt();
-		
+		System.out.println("O Factorial de "+num+ " eh : "+fat(num));
 		System.out.println("O Factorial de "+num+ " eh : "+fatorial(num));
 	}
 	
-	 public int fatorial(int num) {
+	public int fat(int num){
+		int fa=1;
+		for(int i=num; i >= 1; i--){
+		       fa=fa*i;
+	    }
+		return fa;
+		
+	}
+	
+	public int fatorial(int num) {
 	        if (num <= 1) {
 	            return 1;
 	        } else {
 	            return fatorial(num - 1) * num;
 	        }
-	 }
+	}
 }
 
 
