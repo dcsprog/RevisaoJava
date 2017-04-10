@@ -2,6 +2,10 @@ package application;
 
 import exercicios.Exercicio1;
 import exercicios.Exercicio10;
+import exercicios.Exercicio11;
+import exercicios.Exercicio12;
+import exercicios.Exercicio13;
+import exercicios.Exercicio14;
 import exercicios.Exercicio15;
 import exercicios.Exercicio19;
 import exercicios.Exercicio2;
@@ -29,7 +33,11 @@ public class App {
 		Exercicio8 e8 = new Exercicio8();
 		Exercicio9 e9 = new Exercicio9();
 		Exercicio10 e10 = new Exercicio10();
-		Exercicio15 e13 = new Exercicio15();
+		Exercicio11 e11 = new Exercicio11();
+		Exercicio12 e12 = new Exercicio12();
+		Exercicio13 e13 = new Exercicio13();
+		Exercicio14 e14 = new Exercicio14();
+		Exercicio15 e15 = new Exercicio15();
 		Exercicio19 e19 = new Exercicio19();
 		//e1.exerc1();
 		//e2.exer2();
@@ -41,8 +49,12 @@ public class App {
 		//e8.exerc8();
 		//e9.exerc9();
 		//e10.exerc10();
+		//e11.exerc11();
+		//e12.exerc12();
 		//e13.exerc13();
-		e19.exerc19();
+		e14.exerc14();
+		//e15.exerc15();
+		//e19.exerc19();
 	}
 
 }

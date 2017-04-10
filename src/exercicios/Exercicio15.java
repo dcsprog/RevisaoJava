@@ -8,7 +8,7 @@ public class Exercicio15 {
 
 	static Scanner n = new Scanner(System.in);
 	
-	public void exerc13(){
+	public void exerc15(){
 		
 		Integer[] array = new Integer[7]; 
 		int soma = 0, media = 0;
